@@ -1,4 +1,4 @@
-👋 Hi, I'm Ioseb (Soso) Gvritishvili a Front-end engineer, born in the marketing and creative industry, with professional coding experience since 2016. 
+👋 Hi, I'm Ioseb (Soso) Gvritishvili, as a Front-end engineer I was born in the marketing and creative industry company, with professional coding experience since 2016. 
 Skilled in **JS, TS, Vue ⅔., Nuxt, React Native, HTML, CSS(SCSS, BEM, Tailwind), REST Api, Unit and E2E tests**. 
 
 Prefer working on Front-end technologies, also I have experience working with PHP world: laravel and wordpres.
