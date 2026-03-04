@@ -1,8 +1,4 @@
-Hi, I’m Ioseb Gvritishvili, a Frontend Engineer with professional experience since 2016 and a background in the marketing and creative industry, and other different fields.
-
-I work mainly with JavaScript (ES6), TypeScript, Vue.js, Nuxt.js, HTML5, Inertia, SSR  and CSS (SCSS, BEM, Tailwind). I also have experience with React Native. I’ve worked with PHP, including Laravel and WordPress, which helps me understand the full product lifecycle.
-
-I focus on clean, efficient code, pay close attention to detail, and continuously learn modern technologies to build better digital experiences. I believe AI is an important area worth exploring and discussing.
+Frontend Engineer with 7+ years of experience across different fields and industries, with strong skills in creating great digital experiences. I work with modern technologies including JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Inertia.js, SSR, Vitest, HTML5, CSS3 (SASS, BEM), and React Native. I also have experience with PHP, Laravel, and WordPress theme and plugin development. I specialize in front-end development, write clean and efficient code, and pay close attention to detail. I stay current with new technologies and am committed to continuous improvement.
 
 #### How to reach me ...
 
